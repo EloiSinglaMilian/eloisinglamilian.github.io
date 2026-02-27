@@ -8,23 +8,23 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "CV"
+    url: /files/CV_Eloi_Singla_Milian.pdf/
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Projects"
+    url: /projects/
 
   #- title: "Talks"
   #  url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
-    
-  - title: "Projects"
-    url: /projects/
-        
+            
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
