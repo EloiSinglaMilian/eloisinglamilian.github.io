@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **PhD candidate** in Translation and Language Sciences at **Universitat Pompeu Fabra**. My work studies how a certain construction of **Catalan Sign Language** (LSC) called Question-Answer Pairs (QAP for short), how it behaves at different levels of language, and how it might be different for speakers of different ages.  
+I am a **PhD candidate** in Translation and Language Sciences at **Universitat Pompeu Fabra**. My work studies a construction in **Catalan Sign Language** (LSC) called Question-Answer Pairs (QAP for short), how it behaves at different levels of language, and how it might vary for speakers of different ages.  
 
-My personal interest in linguistics is how **formal theory and empirical research** can inform each other. For me, theoretical questions should be grounded in solid data, and descriptive work becomes more meaningful when it connects to broader analytical frameworks. I am also committed to linguistic diversity and to working on **minoritized language**s such as Catalan, Scottish Gaelic, and Catalan Sign Language (LSC).
+My personal interest in linguistics is how **formal theory and empirical research** can inform each other. For me, theoretical questions should be grounded in solid data, and descriptive work becomes more meaningful when it connects to broader analytical frameworks. I am also committed to linguistic diversity and to working on **minoritized languages** such as Catalan, Scottish Gaelic, and Catalan Sign Language (LSC).
 
 ---
 
@@ -17,7 +17,7 @@ My personal interest in linguistics is how **formal theory and empirical researc
 
 My doctoral research, supervised by Gemma Barberà and Laia Mayol, investigates **question–answer pairs (QAPs)** in Catalan Sign Language (LSC), a construction also present in many other sign languages. Traditionally it has been described as a **“rhetorical question”**, but its grammatical status remains debated in the literature on sign languages.
 
-In this construction, a signer appears to produce a question and immediately provide its answer. For example, the sentence below (in gloss) could be translated simply as “I live in Barcelona” or, possible, as “Where I live is Barcelona”.
+In this construction, a signer appears to produce a question and immediately provide the answer themselves. For example, the sentence below (in gloss) could be translated simply as “I live in Barcelona” or, possibly, as “Where I live is Barcelona”.
 
 &emsp;&emsp;&emsp;[IX1 LIVE WHERE]<sup>br</sup>, BARCELONA
 
@@ -29,7 +29,7 @@ My project has three main objectives:
    I examine whether they constitute a single clause, how they interact with presupposition and exhaustivity, and how they contribute to discourse structure.
 
 2. **To determine whether QAPs exhibit microdiachronic variation across age groups.**  
-   I investigate whether there are generational differences regarding this structure that reveal ongoing change in the language.
+   I investigate whether there are generational differences in this structure that reveal ongoing change in the language.
 
 3. **To situate LSC within the broader grammaticalization path described for other sign languages.**  
    By comparing LSC to other languages, I will be able to contribute to wider debates on clefts, focus constructions, and the syntax–discourse interface.
@@ -45,6 +45,6 @@ Beyond its theoretical contribution, this work aims to support the linguistic de
 
 ## Beyond linguistics
 
-Outside academia, one of my interests has always been music. I play different instruments, and among them the most uncommon is probably the organ, which I played at my town's church for a good while. I also used to play bass in a punk band with some of my friends called **TTC (Teo Trenca Cames)**, and we recorded an EP called “Terra Cremada” which is still on Spotify. Sadly I don't play regularly anymore, but if you read this and want to jam sometime, let me know!
+Outside academia, one of my interests has always been music. I play different instruments, and perhaps the most uncommon among them is the organ, which I played at my town's church for a good while. I also used to play bass in a punk band with some of my friends called **TTC (Teo Trenca Cames)**, and we recorded an EP called “Terra Cremada” which is still on Spotify. Sadly I don't play regularly anymore, but if you read this and want to jam sometime, let me know!
 
 I am also very interested in the academic study of religion, particularly in critical Bible studies. Eventually I would like to learn Koine Greek and Biblical Hebrew so that I can read the primary sources directly, and maybe contribute to the field in some way.
