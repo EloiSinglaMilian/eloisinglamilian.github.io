@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: /files/CV_Eloi_Singla_Milian.pdf/
+    url: /files/CV_Eloi_Singla_Milian.pdf
 
   - title: "Publications"
     url: /publications/
