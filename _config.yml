@@ -23,7 +23,7 @@ repository               : "EloiSinglaMilian/EloiSinglaMilian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_new.jpg"
   name             : "Eloi Singla-Milian"
   pronouns         : # example: "she/her"  
   bio              : "Formal linguist"
